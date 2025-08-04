@@ -116,9 +116,9 @@ cd netflix-content-ml-project
 
 ## Repository Structure
 
-├── dataset.csv # Netflix dataset (format may vary)Sample_ML_Submission_Template.ipynb # Main analysis and clustering notebook
+├── NETFLIX MOVIES AND TV SHOWS CLUSTERING DATASET.csv # Netflix dataset (format may vary)
 
-├── Sample_ML_Submission_Template.ipynb # Main analysis and clustering notebook
+├── Unsupervised_ML_Netflix_Movies_and_TV_Shows_Clustering.ipynb # Main analysis and clustering notebook
 
 ├── best_model.pkl  (Saved clustering model)
 
