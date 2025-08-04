@@ -35,8 +35,9 @@ The project demonstrates a real-world, end-to-end data science approach from raw
 ## Dataset
 
 - **Source:** Kaggle Netflix Dataset 
-- **Shape:** 8,800+ entries, multiple columns
-- **Included:** Movies and TV Shows with details (title, type, director, cast, country, date added, release year, rating, duration, genres, description)
+- **Shape:** 7,700+ entries, multiple columns
+- **Included:** Movies and TV Shows with details ('show_id', 'type', 'title', 'director', 'cast', 'country', 'date_added',
+       'release_year', 'rating', 'duration', 'listed_in', 'description')
 
 *Dataset file(s) are included for reference and reproducibility.*
 
