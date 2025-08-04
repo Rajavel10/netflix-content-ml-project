@@ -36,9 +36,9 @@ The project demonstrates a real-world, end-to-end data science approach from raw
 
 ## Dataset
 
-- **Source:** [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows) (or your provided source)
-- **Shape:** 8,800+ entries, multiple columns
-- **Included:** Movies and TV Shows with details (title, type, director, cast, country, date added, release year, rating, duration, genres, description)
+- **Source:** Dataset has been provided with the project 
+- **Shape:** 7,700+ entries, multiple columns
+- **Included:** Movies and TV Shows with details (show_id', 'type', 'title', 'director', 'cast', 'country', 'date_added','release_year', 'rating', 'duration', 'listed_in', 'description)
 
 *Dataset file(s) are included for reference and reproducibility.*
 
@@ -108,7 +108,7 @@ cd netflix-content-ml-project
 - (Install via `pip install -r requirements.txt` if provided)
 
 3. **Open the notebook:**
-- Launch `Sample_ML_Submission_Template.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
+- Launch `Unsupervised ML - Netflix Movies and TV Shows Clustering.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
 
 4. **Run all cells**
 - Follow along with markdown explanations.
@@ -117,11 +117,11 @@ cd netflix-content-ml-project
 ---
 
 ## Repository Structure
-├── Sample_ML_Submission_Template.ipynb # Main analysis and clustering notebook
-├── dataset.csv # Netflix dataset (format may vary)
-├── best_model.pkl # (Optional) Saved clustering model
-├── README.md # This file
-└── requirements.txt # (Optional) Dependence list
+├──Sample_ML_Submission_Template.ipynb # Main analysis and clustering notebook
+├──dataset.csv # Netflix dataset (format may vary)
+├──best_model.pkl # (Optional) Saved clustering model
+├──README.md # This file
+└──requirements.txt # (Optional) Dependence list
 
 
 ---
@@ -137,7 +137,7 @@ cd netflix-content-ml-project
 
 ## Acknowledgments
 
-- Original Netflix dataset from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows) (or your source).
+- Original Netflix dataset from Kaggle.
 - Open-source Python packages and community documentation.
 - Project inspiration: Modern recommender systems and streaming analytics.
 
