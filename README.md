@@ -47,7 +47,7 @@ The project demonstrates a real-world, end-to-end data science approach from raw
 ## Features & Columns
 
 **Key Variables:**
-- `title`: Name of the content
+- `title`: NETFLIX MOVIES AND TV SHOWS CLUSTERING DATASET
 - `type`: Movie or TV Show
 - `director`, `cast`, `country`
 - `date_added`, `release_year`
@@ -99,7 +99,7 @@ The project demonstrates a real-world, end-to-end data science approach from raw
 ## How to Run
 
 1. **Clone the repository:**
-git clone https://github.com/your-username/netflix-content-ml-project.git
+git clone https://github.com/Rajavel10/netflix-content-ml-project.git
 cd netflix-content-ml-project
 
 2. **Install dependencies:**
