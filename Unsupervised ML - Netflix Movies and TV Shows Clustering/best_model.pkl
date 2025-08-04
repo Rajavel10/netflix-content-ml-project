@@ -1,0 +1,4 @@
+import pickle
+
+with open('best_model.pkl', 'wb') as f:
+    pickle.dump(kmeans, f)  # Replace 'kmeans' with your best model's variable
