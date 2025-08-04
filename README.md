@@ -124,7 +124,7 @@ cd netflix-content-ml-project
 
 ├── requirements.txt  (Dependence list)
 
-└── README.md # This filerequirements.txt # (Optional) Dependence list
+└── README.md 
 
 
 
