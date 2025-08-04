@@ -127,7 +127,6 @@ cd netflix-content-ml-project
 └── README.md # This filerequirements.txt # (Optional) Dependence list
 
 
-1. **Clone the repository:**
 
 ---
 
